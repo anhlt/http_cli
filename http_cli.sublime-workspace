@@ -1,0 +1,1915 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sea",
+				"search_field"
+			],
+			[
+				"s",
+				"start_search"
+			],
+			[
+				"se",
+				"search_field"
+			],
+			[
+				"prom",
+				"prompt_toolkit"
+			],
+			[
+				"in",
+				"input_field"
+			],
+			[
+				"le",
+				"lexer\tparam"
+			],
+			[
+				"l",
+				"lexer\tmodule"
+			],
+			[
+				"Au",
+				"AppendAutoSuggestion\tclass"
+			],
+			[
+				"p",
+				"processors\tmodule"
+			],
+			[
+				"pre",
+				"input_processors\tstatement"
+			],
+			[
+				"fo",
+				"focusable\tparam"
+			],
+			[
+				"AU",
+				"AutoSuggestFromHistory\tclass"
+			],
+			[
+				"has_",
+				"has_focus\tfunction"
+			],
+			[
+				"has",
+				"has_completions\tfunction"
+			],
+			[
+				"com",
+				"completer\tparam"
+			],
+			[
+				"hel",
+				"help_text"
+			],
+			[
+				"KeyP",
+				"KeyPressEvent\tclass"
+			],
+			[
+				"ke",
+				"key_processor\tmodule"
+			],
+			[
+				"Bu",
+				"Buffer\tclass"
+			],
+			[
+				"close",
+				"close_application_dialog"
+			],
+			[
+				"lo",
+				"logger\tstatement"
+			],
+			[
+				"for",
+				"formatter"
+			],
+			[
+				"key",
+				"key_binding\tmodule"
+			],
+			[
+				"con",
+				"controls\tmodule"
+			],
+			[
+				"h",
+				"http_cli\tmodule"
+			],
+			[
+				"S",
+				"Stock"
+			],
+			[
+				"strin",
+				"string\tstring"
+			],
+			[
+				"stream",
+				"streamsize\tstreamsize"
+			],
+			[
+				"co",
+				"cout\tostream cout"
+			],
+			[
+				"io",
+				"ios_base\tios_base"
+			],
+			[
+				"name",
+				"name_cpp_string"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"try",
+				"try\tTry/Except/Else"
+			],
+			[
+				"dis",
+				"distutils\tmodule"
+			],
+			[
+				"iostream",
+				"I-iostream\tinc"
+			],
+			[
+				"end",
+				"endl\tostream"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"I-ios",
+				"I-iostream\tinc"
+			],
+			[
+				"Is",
+				"I-sstream\tinc"
+			],
+			[
+				"ls",
+				"lstm_forward"
+			],
+			[
+				"dne",
+				"dnext_h\tparam"
+			],
+			[
+				"prev",
+				"prev_c\tstatement"
+			],
+			[
+				"nex",
+				"next_c\tstatement"
+			],
+			[
+				"next_",
+				"next_h"
+			],
+			[
+				"cl",
+				"classes_path"
+			],
+			[
+				"No",
+				"None\tkeyword"
+			],
+			[
+				"mode",
+				"model_path\tparam"
+			],
+			[
+				"da",
+				"data_dir\tstatement"
+			],
+			[
+				"Bas",
+				"BASE_DIR\tstatement"
+			],
+			[
+				"su",
+				"successfully_downloaded"
+			],
+			[
+				"me",
+				"medadata_saved\tstatement"
+			],
+			[
+				"_me",
+				"_metadata_saved\tstatement"
+			],
+			[
+				"REs",
+				"ResourceNotFound\tclass"
+			],
+			[
+				"File",
+				"FileNotFoundError\tclass"
+			],
+			[
+				"file",
+				"file_path\tstatement"
+			],
+			[
+				"save",
+				"save_dir\tfunction"
+			],
+			[
+				"Ba",
+				"BASE_DIR\tstatement"
+			],
+			[
+				"pr",
+				"property\tclass"
+			],
+			[
+				"IMa",
+				"IMAGE_METADATA_DIR\tstatement"
+			],
+			[
+				"Down",
+				"DownloadableObject\tclass"
+			],
+			[
+				"down",
+				"downloaded\tfunction"
+			],
+			[
+				"wo",
+				"download_objects\tfunction"
+			],
+			[
+				"sa",
+				"save_path\tparam"
+			],
+			[
+				"P",
+				"PROTOCOL"
+			],
+			[
+				"open",
+				"open_fs\tfunction"
+			],
+			[
+				"pro",
+				"protocol\tparam"
+			],
+			[
+				"Pro",
+				"PROTOCOL\tstatement"
+			],
+			[
+				"im",
+				"img\tstatement"
+			],
+			[
+				"url",
+				"urls\tstatement"
+			],
+			[
+				"fil",
+				"file_path\tstatement"
+			],
+			[
+				"obj",
+				"objects\tparam"
+			],
+			[
+				"Noe",
+				"NotImplementedError\tclass"
+			],
+			[
+				"re",
+				"raise"
+			],
+			[
+				"do",
+				"dotenv_path\tstatement"
+			],
+			[
+				"dir",
+				"dirname\tfunction"
+			],
+			[
+				"base",
+				"_base_url"
+			],
+			[
+				"Se",
+				"self"
+			],
+			[
+				"as",
+				"abspath\tfunction"
+			],
+			[
+				"bas",
+				"base_url\tparam"
+			],
+			[
+				"loca",
+				"location\tparam"
+			],
+			[
+				"St",
+				"Storage\tclass"
+			],
+			[
+				"Not",
+				"NotImplementedError\tclass"
+			],
+			[
+				"ima",
+				"image_file"
+			],
+			[
+				"bath",
+				"batch_path\tstatement"
+			],
+			[
+				"retu",
+				"return_path\tparam"
+			],
+			[
+				"return",
+				"return_path"
+			],
+			[
+				"w",
+				"weights\tparam"
+			],
+			[
+				"inex",
+				"index_array\tstatement"
+			],
+			[
+				"Ste",
+				"StopIteration\tclass"
+			],
+			[
+				"ba",
+				"batch_index"
+			],
+			[
+				"bat",
+				"batch_x\tstatement"
+			],
+			[
+				"Str",
+				"StopIteration\tclass"
+			],
+			[
+				"img",
+				"img_to_array"
+			],
+			[
+				"di",
+				"directory\tparam"
+			],
+			[
+				"wi",
+				"white_list_formats\tstatement"
+			],
+			[
+				"_",
+				"_list_valid_filenames_in_directory\tfunction"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"mod",
+				"model\tstatement"
+			],
+			[
+				"ab",
+				"absolute_path\tstatement"
+			],
+			[
+				"cla",
+				"classes\tstatement"
+			],
+			[
+				"cas",
+				"classes\tparam"
+			],
+			[
+				"flo",
+				"follow_links\tparam"
+			],
+			[
+				"whi",
+				"white_list_formats\tstatement"
+			],
+			[
+				"coun",
+				"_count_valid_files_in_directory"
+			],
+			[
+				"cop",
+				"copy\tmodule"
+			],
+			[
+				"crop",
+				"crop_output_path\tstatement"
+			],
+			[
+				"bo",
+				"bottom\tstatement"
+			],
+			[
+				"cro",
+				"crops"
+			],
+			[
+				"arg",
+				"args\tparam"
+			],
+			[
+				"out",
+				"output\tstatement"
+			],
+			[
+				"an",
+				"anchors\tparam"
+			],
+			[
+				"sav",
+				"save_path\tstatement"
+			],
+			[
+				"is",
+				"isdir\tmodule"
+			],
+			[
+				"pa",
+				"path\tmodule"
+			],
+			[
+				"A",
+				"ArgumentParser\tclass"
+			],
+			[
+				"sty",
+				"style_path"
+			],
+			[
+				"ma",
+				"max_number"
+			],
+			[
+				"conte",
+				"content_seg"
+			],
+			[
+				"stl",
+				"style_masks\tstatement"
+			],
+			[
+				"cast",
+				"cast_to_floatx\tfunction"
+			],
+			[
+				"loa",
+				"load_img\tfunction"
+			],
+			[
+				"tar",
+				"target_size\tparam"
+			],
+			[
+				"ta",
+				"target_size\tparam"
+			],
+			[
+				"featu",
+				"feature_layers\tstatement"
+			],
+			[
+				"fea",
+				"feature_layers\tstatement"
+			],
+			[
+				"lay",
+				"layer_name\tstatement"
+			],
+			[
+				"ou",
+				"outputs_dict\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "http_cli/http_cli.py",
+			"settings":
+			{
+				"buffer_size": 333,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "http_cli/lib/layout/main_layout.py",
+			"settings":
+			{
+				"buffer_size": 1886,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "http_cli/lib/layout/input_area.py",
+			"file_size": 0,
+			"file_write_time": 131667910090000000,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "http_cli/lib/key_bindins/kbs.py",
+			"settings":
+			{
+				"buffer_size": 1167,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "http_cli/lib/debug.log",
+			"settings":
+			{
+				"buffer_size": 4080,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "http_cli/lib/request.py",
+			"settings":
+			{
+				"buffer_size": 84,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "http_cli/example.py",
+			"settings":
+			{
+				"buffer_size": 8661,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++11/C++11.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++11/C++11.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Docker Based Build Systems/C++ in Docker Container.sublime-build",
+					""
+				],
+				[
+					"Packages/Docker Based Build Systems/C++ in Docker Container.sublime-build",
+					"C++ - g++ v4.9.2 in Docker Container"
+				],
+				[
+					"Packages/Docker Based Build Systems/C++ in Docker Container.sublime-build",
+					"C++ - g++ for ARM/Raspberry Pi"
+				]
+			],
+			[
+				"Packages/Docker Based Build Systems/C++ in Docker Container.sublime-build",
+				"C++ - g++ v4.9.2 in Docker Container"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Docker Based Build Systems/Python in Docker Container.sublime-build",
+					""
+				],
+				[
+					"Packages/Docker Based Build Systems/Python in Docker Container.sublime-build",
+					"Python v2.7 in Docker Container"
+				],
+				[
+					"Packages/Docker Based Build Systems/Python in Docker Container.sublime-build",
+					"Python v3.4 in Docker Container"
+				]
+			],
+			[
+				"Packages/Docker Based Build Systems/Python in Docker Container.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": ":q",
+		"selected_items":
+		[
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":e",
+				":e - Revert"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"Termin",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"removc",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remoce",
+				"Package Control: Remove Package"
+			],
+			[
+				"eas",
+				"EasyClangComplete: Open completion triggers location"
+			],
+			[
+				"ease",
+				"EasyClangComplete: Clean current CMake cache"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"easy",
+				"EasyClangComplete: Open completion triggers location"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"Termina",
+				"Terminal: Open"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jump",
+				"Browse Mode: Jump List"
+			],
+			[
+				":wq",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				"ermove",
+				"Package Control: Remove Package"
+			],
+			[
+				"build",
+				"Build With: Python in Docker Container - Python v3.4 in Docker Container"
+			],
+			[
+				"dis",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"upload",
+				"SFTP: Upload VCS Changed Files"
+			],
+			[
+				"sync",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"surro",
+				"Surround: change surround"
+			],
+			[
+				"anaconda",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"Dockerfile",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"build Docker",
+				"Build With: Python in Docker Container - Python v2.7 in Docker Container"
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git chec",
+				"Git: Change Branch"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				":add",
+				"Git: Add Current File"
+			],
+			[
+				"add cu",
+				"Git: Add Current File"
+			],
+			[
+				"pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git pull ",
+				"Git: Pull"
+			],
+			[
+				"sya",
+				"Set Syntax: YAML"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"psh",
+				"Git: Push"
+			],
+			[
+				"bran",
+				"Git: Change Branch"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				"buildDoc",
+				"Build With: C++ in Docker Container"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"cython",
+				"Set Syntax: Cython"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"sypyth",
+				"Set Syntax: Python"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git pu",
+				"Git: Push Tags"
+			],
+			[
+				"git tag",
+				"Git: New Tag"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"gsta",
+				"Git: Status"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				":com",
+				"Git: Commit"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				":$",
+				":$ - EOF"
+			],
+			[
+				"",
+				":0 - BOF"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"gitad",
+				"Git: Add All"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"setpy",
+				"Set Syntax: Python"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"aline",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			],
+			[
+				":s",
+				":w - Save"
+			],
+			[
+				"sypy",
+				"Set Syntax: Python"
+			],
+			[
+				":pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"GitC",
+				"Git: Commit"
+			],
+			[
+				"gitA",
+				"Git: Add All"
+			],
+			[
+				"set Syn Ba",
+				"Set Syntax: Batch File"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python"
+			],
+			[
+				"syn",
+				"Set Syntax: Python"
+			],
+			[
+				"SetPy",
+				"Set Syntax: Python"
+			],
+			[
+				"Pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				":disa",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"tab ",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"disa",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"Disa",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"Anaconda",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"lin",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 49607))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 49231))",
+			"os.path.dirname('./images/crops')",
+			"os.path.basename('./images/crops')",
+			"os.path.basename('./images')",
+			"os.path.basename('./')",
+			"os.path",
+			"import os",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/letuananh/workspace/http_cli",
+		"/Users/letuananh/workspace/http_cli/http_cli",
+		"/Users/letuananh/workspace/http_cli/http_cli/lib",
+		"/Users/letuananh/workspace/http_cli/http_cli/lib/key_bindins",
+		"/Users/letuananh/workspace/http_cli/http_cli/lib/layout"
+	],
+	"file_history":
+	[
+		"/Users/letuananh/workspace/http_cli/http_cli/lib/layout/input_area.py",
+		"/Users/letuananh/workspace/http_cli/http_cli/lib/key_bindins/kbs.py",
+		"/Users/letuananh/workspace/http_cli/http_cli.sublime-project",
+		"/Users/letuananh/workspace/http_cli/http_cli/cli.py",
+		"/Users/letuananh/workspace/http_cli/http_cli/example.py",
+		"/Users/letuananh/workspace/http_cli/http_cli/lib/layout/main_layout.py",
+		"/Users/letuananh/workspace/http_cli/http_cli/__init__.py",
+		"/Users/letuananh/Applications/Temps.app/Contents/MacOS/Temps",
+		"/Users/letuananh/workspace/http_cli/http_cli/lib/key_bindins/__init__.py",
+		"/Users/letuananh/workspace/http_cli/http_cli/lib/__init__.py",
+		"/Users/letuananh/workspace/http_cli/http_cli/debug.log",
+		"/Users/letuananh/workspace/http_cli/http_cli/logger.py",
+		"/Users/letuananh/workspace/http_cli/http_cli/dialogs/general_dialogs.py",
+		"/Users/letuananh/workspace/http_cli/http_cli/dialogs/__init__.py",
+		"/Users/letuananh/workspace/http_cli/http_cli/key_bindins/kbs.py",
+		"/Users/letuananh/workspace/http_cli/http_cli/layout/main_layout.py",
+		"/Users/letuananh/workspace/http_cli/http_cli/layout/__init__.py",
+		"/Users/letuananh/workspace/http_cli/tests/test_http_cli.py",
+		"/Users/letuananh/Downloads/その他修正事項_20180326",
+		"/Users/letuananh/Downloads/LetroVtdr_css修正_002-1",
+		"/Users/letuananh/workspace/Casanova/resources/views/part/part_detail.blade.php",
+		"/Users/letuananh/Downloads/LetroVtdr_css修正_002-1.txt",
+		"/Users/letuananh/workspace/Casanova/app/Http/Controllers/PartController.php",
+		"/Users/letuananh/Downloads/AEB1K1SO03.txt",
+		"/Users/letuananh/workspace/cplusplus/chap9/stock.cpp",
+		"/Users/letuananh/Downloads/Input Method Editor (IME) sample/C++/SampleIME/TipCandidateString.cpp",
+		"/Library/Developer/CommandLineTools/usr/include/c++/v1/iosfwd",
+		"/Users/letuananh/workspace/cplusplus/chap9/setup.py",
+		"/Users/letuananh/workspace/cplusplus/chap9/stock00.cpp",
+		"/Users/letuananh/workspace/cplusplus/chap9/stock00.h",
+		"/Users/letuananh/Library/Application Support/Sublime Text 3/Packages/User/c++ multifile.sublime-build",
+		"/Users/letuananh/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/letuananh/Library/Application Support/Sublime Text 3/Packages/EasyClangComplete/Preferences.sublime-settings",
+		"/Users/letuananh/workspace/mila2/test_yolo_2.py",
+		"/Users/letuananh/workspace/mila2/src/utils.py",
+		"/Users/letuananh/workspace/mila2/src/image_manager/image.py",
+		"/Users/letuananh/workspace/mila2/src/image_manager/downloader.py",
+		"/Users/letuananh/workspace/mila2/src/.env",
+		"/Users/letuananh/workspace/mila2/src/cnn/object_detection/models/keras_yolo.py",
+		"/Users/letuananh/workspace/mila2/docker-compose.yaml",
+		"/Users/letuananh/workspace/mila2/src/data/model_data/yolo_anchors.txt",
+		"/Users/letuananh/workspace/mila2/src/data/model_data/mscoco_anchors.txt",
+		"/Users/letuananh/workspace/mila2/requirements.txt",
+		"/Users/letuananh/workspace/mila2/src/cnn/object_detection/object_detector.py",
+		"/Users/letuananh/workspace/mila2/sftp-config.json",
+		"/Users/letuananh/workspace/mila2/src/cnn/object_detection/models/__init__.py",
+		"/Users/letuananh/workspace/mila2/src/configs.py",
+		"/Users/letuananh/workspace/mila2/main.py",
+		"/Users/letuananh/workspace/mila2/src/cnn/feature_extraction/__init__.py",
+		"/Users/letuananh/workspace/mila2/src/__version__.py",
+		"/Users/letuananh/workspace/mila2/mila2.sublime-project",
+		"/Users/letuananh/workspace/mila2/src/raw_image",
+		"/Users/letuananh/workspace/mila2/src/__init__.py",
+		"/Users/letuananh/Library/Application Support/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/Users/letuananh/workspace/mila2/src/image_manager/storage.py",
+		"/Users/letuananh/workspace/mila2/src/object_detection/__init__.py",
+		"/Users/letuananh/workspace/YAD2K/voc_conversion_scripts/voc_to_hdf5.py",
+		"/Users/letuananh/workspace/YAD2K/image_downloader/downloader.py",
+		"/Users/letuananh/workspace/YAD2K/test_yolo_2.py",
+		"/Users/letuananh/workspace/YAD2K/model.py",
+		"/Users/letuananh/workspace/YAD2K/sftp-config.json",
+		"/Users/letuananh/workspace/YAD2K/test_yolo.py",
+		"/Users/letuananh/workspace/YAD2K/images/17437674_754329441401901_2217955501457539072_n.jpg",
+		"/Users/letuananh/workspace/YAD2K/yad2k/utils/utils.py",
+		"/Users/letuananh/workspace/YAD2K/yad2k/models/keras_darknet19.py",
+		"/Users/letuananh/workspace/YAD2K/yad2k/models/keras_yolo.py",
+		"/Users/letuananh/workspace/YAD2K/yad2k/preprocessing/image.py",
+		"/Users/letuananh/anaconda/envs/py36/lib/python3.6/site-packages/keras/preprocessing/image.py",
+		"/Users/letuananh/workspace/YAD2K/yad2k/preprocessing/__init__.py",
+		"/Users/letuananh/workspace/YAD2K/yolo.sublime-project",
+		"/Users/letuananh/workspace/YAD2K/docker-compose-gpu.yaml",
+		"/Users/letuananh/workspace/YAD2K/retrain_yolo.py",
+		"/Users/letuananh/anaconda/envs/py36/lib/python3.6/site-packages/keras/applications/resnet50.py",
+		"/Users/letuananh/anaconda/envs/py36/lib/python3.6/site-packages/keras/engine/topology.py",
+		"/Users/letuananh/workspace/YAD2K/images/out/18013161_1900024016948411_7574538502851788800_n.jpg",
+		"/Users/letuananh/workspace/ranking_image/image_ranking.sublime-project",
+		"/Users/letuananh/workspace/YAD2K/Dockerfile",
+		"/Users/letuananh/workspace/YAD2K/requirements.txt",
+		"/Users/letuananh/workspace/YAD2K/train_overfit.py",
+		"/Users/letuananh/workspace/ranking_image/keras/__init__.py",
+		"/Users/letuananh/workspace/ranking_image/fig.yml",
+		"/Users/letuananh/workspace/ranking_image/keras/image_downloader/__init__.py",
+		"/Users/letuananh/workspace/ranking_image/sftp-config.json",
+		"/Users/letuananh/workspace/ranking_image/resources/cntk/ResNet_18.model.jpg",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/tensorflow-deeplab-lfov/output/mask.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/outputs/out_iter_1000.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/bash.sh",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/outputs/out_iter_700.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/outputs/out_iter_1700.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/outputs/out_iter_2500.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/outputs/out_iter_2100.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/outputs/out_iter_2200.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/best_stylized.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/outputs/out_iter_1900.png",
+		"/Users/letuananh/Library/Application Support/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/outputs/out_iter_2600.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/examples/letro/test4.jpg",
+		"/Users/letuananh/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/requirements.txt",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/tensorflow-deeplab-resnet/output/mask.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/tensorflow-deeplab-resnet/inference.py",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/deep_photostyle.py",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/out_iter_1400.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/out_iter_900.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/examples/letro/mask3.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/examples/letro/mask5.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/tensorflow-deeplab-lfov/images/style/2.jpg",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/tensorflow-deeplab-resnet/bash.sh",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/out_iter_500.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/outputs/out_iter_500.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/examples/letro/test5.jpg",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/examples/letro/test3.jpg",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/outputs/out_iter_600.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/tensorflow-deeplab-lfov/images/colour_scheme.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/outputs/out_iter_300.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/examples/letro/mask7.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/outputs/out_iter_900.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/smooth_local_affine.py",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/examples/letro/test7.jpg",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/out_iter_200.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/out_iter_700.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/photo_style.py",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/out_iter_100.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/out_iter_400.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/out_iter_600.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/out_iter_800.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/out_iter_300.png",
+		"/Users/letuananh/workspace/deep-photo-styletransfer-tf/examples/letro/test.png"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"start_search",
+			"Find",
+			"start_search"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "http_cli/http_cli.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".>:",
+									"selector": "source.c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>:",
+									"selector": "source.c - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.cuda-c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "http_cli/lib/layout/main_layout.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1029,
+								1029
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".>:",
+									"selector": "source.c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>:",
+									"selector": "source.c - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.cuda-c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 159.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "http_cli/lib/layout/input_area.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "http_cli/lib/key_bindins/kbs.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1127,
+								1127
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".>:",
+									"selector": "source.c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>:",
+									"selector": "source.c - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.cuda-c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "http_cli/lib/debug.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "http_cli/lib/request.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".>:",
+									"selector": "source.c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>:",
+									"selector": "source.c - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.cuda-c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "http_cli/example.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6331,
+								6343
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 257.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 189.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 90.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 284.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "http_cli.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rnn",
+				"cs231n/rnn_layers.py"
+			],
+			[
+				"58991",
+				"~/workspace/YAD2K/images/out/18011920_589912921218750_1332480759969087488_n.jpg"
+			],
+			[
+				"keras",
+				"yad2k/models/keras_yolo.py"
+			],
+			[
+				"featurizer_map",
+				"tmp/featurizer_map.txt"
+			],
+			[
+				"ke",
+				"keras_deep_photo.py"
+			],
+			[
+				"faster",
+				"faster_rcnn/faster_rcnn.py"
+			],
+			[
+				"net",
+				"faster_rcnn/network.py"
+			],
+			[
+				"fas",
+				"faster_rcnn/faster_rcnn.py"
+			],
+			[
+				"atl",
+				"faster_rcnn/rpn_msr/anchor_target_layer.py"
+			],
+			[
+				"a",
+				"faster_rcnn/rpn_msr/anchor_target_layer.py"
+			],
+			[
+				"propo",
+				"faster_rcnn/rpn_msr/proposal_target_layer.py"
+			],
+			[
+				"",
+				"faster_rcnn/rpn_msr/proposal_target_layer.py"
+			],
+			[
+				"datas",
+				"faster_rcnn/utils/dataset.py"
+			],
+			[
+				"rnn.",
+				"cs231n/classifiers/rnn.py"
+			],
+			[
+				"layer",
+				"cs231n/layer_utils.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspace/AdsPredictionEngine/PE.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"### Download the VGG-19 model weights\n"
+			]
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
