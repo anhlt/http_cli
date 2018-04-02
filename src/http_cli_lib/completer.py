@@ -22,7 +22,6 @@ RULES = [
      'header_values'),
 
     (r'(get|head|post|put|patch|delete)\s+', 'concat_mutations'),
-    (r'(httpie|curl)\s+', 'preview'),
     (r'rm\s+\-b\s+', 'existing_body_params'),
     (r'rm\s+\-h\s+', 'existing_header_names'),
     (r'rm\s+\-o\s+', 'existing_option_names'),
@@ -81,12 +80,6 @@ class CompletionGenerator(object):
         if header_values:
             for value in header_values:
                 yield value, header_name
-
-    def preview(self, context, match):
-        return chain(
-            self.actions(context, match),
-            self.concat_mutations(context, match)
-        )
 
     def actions(self, context, match):
         logger.debug('actions')
