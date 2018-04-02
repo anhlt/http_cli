@@ -5,16 +5,16 @@ from prompt_toolkit.layout import Layout
 from prompt_toolkit.widgets import TextArea, Label, Frame
 from prompt_toolkit.contrib.completers import WordCompleter
 from prompt_toolkit.widgets.toolbars import CompletionsToolbar, ArgToolbar, SearchToolbar, ValidationToolbar, SystemToolbar
-from prompt_toolkit.auto_suggest import AutoSuggestFromHistory, ConditionalAutoSuggest
+from prompt_toolkit.auto_suggest import AutoSuggestFromHistory
 from prompt_toolkit.layout.processors import AppendAutoSuggestion
 from .input_area import UrlArea
-
+from ..completer import HttpPromptCompleter
 from prompt_toolkit.lexers import PygmentsLexer
-
 from pygments.lexers.data import JsonLexer
+from ..context import Context
 
-http_completer = WordCompleter([
-    'http://', 'https://', 'com', 'org', 'www', 'jp'])
+
+http_completer = HttpPromptCompleter(Context())
 
 buffer = Buffer()
 help_text = "Http"

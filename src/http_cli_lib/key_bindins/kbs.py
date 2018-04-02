@@ -9,6 +9,7 @@ from ..request import make_request
 from prompt_toolkit.search import start_search
 from prompt_toolkit.key_binding.bindings.auto_suggest import load_auto_suggest_bindings
 from prompt_toolkit.key_binding.key_bindings import merge_key_bindings
+from prompt_toolkit.key_binding.defaults import load_vi_bindings, load_mouse_bindings
 
 logger = logging.getLogger()
 
@@ -46,5 +47,7 @@ def _(event: KeyPressEvent):
 
 
 global_kb = merge_key_bindings([
-    kb, load_auto_suggest_bindings()
+    kb, load_auto_suggest_bindings(),
+    load_mouse_bindings(),
+    load_vi_bindings()
 ])
