@@ -34,11 +34,11 @@ def _(event: KeyPressEvent):
 
 @kb.add('enter', filter=has_focus(input_field))
 def _(event: KeyPressEvent):
-    text = make_request(input_field.text)
-    output_field.buffer.document = Document(
-        text=text, cursor_position=len(text))
     input_field.add_history(input_field.text)
     input_field.text = ''
+    text = 'hello'
+    output_field.buffer.document = Document(
+        text=text, cursor_position=len(text))
 
 
 @kb.add('c-f', filter=has_focus(output_field))

@@ -14,7 +14,7 @@ class Context(object):
             self.url = 'http://localhost:8000'
 
         if not self.action:
-            self.action = 'GET' 
+            self.action = 'GET'
 
     def __eq__(self, other):
         return (self.url == other.url and

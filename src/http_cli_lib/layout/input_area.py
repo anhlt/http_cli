@@ -66,7 +66,7 @@ class UrlArea(object):
             completer=completer,
             history=self.history,
             auto_suggest=AutoSuggestFromHistory(),
-            complete_while_typing=True,
+            enable_history_search=True,
             accept_handler=lambda buff: accept_handler and accept_handler())
 
         self.control = BufferControl(
